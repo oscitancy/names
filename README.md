@@ -1,7 +1,6 @@
 # Names
--------
 Collection of names.
 
 ## English
-Female: 577
-Male:   619
+- Female: 579
+- Male: 619
