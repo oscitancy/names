@@ -11,4 +11,4 @@ Collection of stereotypical names.
 
 ## German
 - Female: 734
-- Male: 1040
+- Male: 1041
