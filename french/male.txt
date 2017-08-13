@@ -10,7 +10,7 @@ Alexandre
 Alfred
 Algernon
 Alphonse
-Alphonse Joseph
+Alphonse-Joseph
 Alvin
 Ames
 Amiens
@@ -58,7 +58,7 @@ Cabal
 Cable
 Cade
 Camille
-Camille Alphonse
+Camille-Alphonse
 Campbell
 Canaan
 Candide

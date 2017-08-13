@@ -600,10 +600,11 @@ Lennie
 Lenny
 Leo
 Leonard
-Leonard,leo,leon
+Leonard
+Leo
+Leon
 Leonardo
 Leonhard
-LeonÃƒÂ¡rd
 Leopold
 Leopoldo
 Leupold
@@ -625,7 +626,8 @@ Lotharing
 Lou
 Louie
 Louis
-Louis,lewis
+Louis
+Lewis
 Lu
 Luduvico
 Ludvig
@@ -642,7 +644,6 @@ Lutera
 Luther
 Luthias
 Lutz
-LÃ©onard
 Macon
 Madelhari
 Maldwyn
